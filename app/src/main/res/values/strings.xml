@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Beep Counter</string>
+    <string name="start_listening">Start Listening</string>
+    <string name="stop_listening">Stop Listening</string>
+    <string name="beep_count">Beep Count: %d</string>
+    <string name="status_ready">Ready to listen</string>
+    <string name="status_listening">Listening for beeps...</string>
+    <string name="status_stopped">Stopped</string>
+    <string name="permission_required">Microphone permission is required</string>
+</resources>
+
