@@ -7,7 +7,7 @@
 2. Click the "+" icon → "New repository"
 3. Name it (e.g., "beep-counter")
 4. Make it **Public** (required for free GitHub Actions)
-5. Click "Create repository"
+5. Click "Create repository" 
 
 ### Step 2: Upload Files
 **Option A: Using GitHub Web Interface**
